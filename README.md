@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/frierenjourney/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/frierenjourney/Leetcode/tree/master/0048-rotate-image) |
+| [0217-contains-duplicate](https://github.com/frierenjourney/Leetcode/tree/master/0217-contains-duplicate) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frierenjourney/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/frierenjourney/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/frierenjourney/Leetcode/tree/master/0217-contains-duplicate) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frierenjourney/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/frierenjourney/Leetcode/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/frierenjourney/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
