@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/frierenjourney/Leetcode/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/frierenjourney/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/frierenjourney/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frierenjourney/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frierenjourney/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/frierenjourney/Leetcode/tree/master/0217-contains-duplicate) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/frierenjourney/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
