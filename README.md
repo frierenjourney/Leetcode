@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/frierenjourney/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/frierenjourney/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/frierenjourney/Leetcode/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/frierenjourney/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/frierenjourney/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/frierenjourney/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/frierenjourney/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/frierenjourney/Leetcode/tree/master/0125-valid-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frierenjourney/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/frierenjourney/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
