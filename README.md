@@ -141,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/frierenjourney/Leetcode/tree/master/0682-baseball-game) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/frierenjourney/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
