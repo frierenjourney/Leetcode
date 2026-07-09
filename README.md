@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/frierenjourney/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/frierenjourney/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/frierenjourney/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/frierenjourney/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/frierenjourney/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/frierenjourney/Leetcode/tree/master/0162-find-peak-element) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/frierenjourney/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/frierenjourney/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/frierenjourney/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/frierenjourney/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/frierenjourney/Leetcode/tree/master/0832-flipping-an-image) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/frierenjourney/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/frierenjourney/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/frierenjourney/Leetcode/tree/master/0832-flipping-an-image) |
 ## Backtracking
