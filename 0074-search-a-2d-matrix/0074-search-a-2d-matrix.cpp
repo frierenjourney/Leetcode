@@ -22,7 +22,7 @@ public:
             if(matrix[i][0]<=target && matrix[i][matrix[0].size()-1]>=target){
                 int left = 0;
                 int right =  matrix[0].size()-1;
-                for(int j = 0;j<matrix[0].size();j++){
+                while(left <= right){
                     int mid = (left+right)/2;
                     if(matrix[i][mid]==target){
                         return true;
