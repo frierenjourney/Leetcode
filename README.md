@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/frierenjourney/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0806-number-of-lines-to-write-string](https://github.com/frierenjourney/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/frierenjourney/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/frierenjourney/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/frierenjourney/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/frierenjourney/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/frierenjourney/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0867-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/frierenjourney/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/frierenjourney/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/frierenjourney/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/frierenjourney/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0867-transpose-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/frierenjourney/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
