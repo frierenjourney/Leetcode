@@ -9,11 +9,9 @@ public:
             a+=distance[i];
             i++;
         }
-        i = destination;
-        while(i != start){
-        b += distance[i];
-        i = (i + 1) % distance.size();
+        for(int i=0;i<distance.size();i++){
+            b+=distance[i];
         }
-        return min(a,b);
+        return min(a,b-a);
     }
 };
