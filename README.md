@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/frierenjourney/Leetcode/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/frierenjourney/Leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/frierenjourney/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/frierenjourney/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/frierenjourney/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frierenjourney/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/frierenjourney/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/frierenjourney/Leetcode/tree/master/0500-keyboard-row) |
 | [1122-relative-sort-array](https://github.com/frierenjourney/Leetcode/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/frierenjourney/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/frierenjourney/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/frierenjourney/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frierenjourney/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
