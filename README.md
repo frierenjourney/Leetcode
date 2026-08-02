@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/frierenjourney/Leetcode/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/frierenjourney/Leetcode/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/frierenjourney/Leetcode/tree/master/1184-distance-between-bus-stops) |
+| [1200-minimum-absolute-difference](https://github.com/frierenjourney/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/frierenjourney/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frierenjourney/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/frierenjourney/Leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/frierenjourney/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/frierenjourney/Leetcode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/frierenjourney/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/frierenjourney/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/frierenjourney/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
