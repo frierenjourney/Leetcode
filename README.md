@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/frierenjourney/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/frierenjourney/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/frierenjourney/Leetcode/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/frierenjourney/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/frierenjourney/Leetcode/tree/master/0682-baseball-game) |
 | [0789-escape-the-ghosts](https://github.com/frierenjourney/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0806-number-of-lines-to-write-string](https://github.com/frierenjourney/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/frierenjourney/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/frierenjourney/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/frierenjourney/Leetcode/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/frierenjourney/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1122-relative-sort-array](https://github.com/frierenjourney/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/frierenjourney/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/frierenjourney/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/frierenjourney/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/frierenjourney/Leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/frierenjourney/Leetcode/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/frierenjourney/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0806-number-of-lines-to-write-string](https://github.com/frierenjourney/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0824-goat-latin](https://github.com/frierenjourney/Leetcode/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/frierenjourney/Leetcode/tree/master/0830-positions-of-large-groups) |
