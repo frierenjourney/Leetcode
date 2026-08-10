@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/frierenjourney/Leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/frierenjourney/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/frierenjourney/Leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/frierenjourney/Leetcode/tree/master/0695-max-area-of-island) |
 | [0789-escape-the-ghosts](https://github.com/frierenjourney/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0806-number-of-lines-to-write-string](https://github.com/frierenjourney/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/frierenjourney/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/frierenjourney/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/frierenjourney/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/frierenjourney/Leetcode/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/frierenjourney/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/frierenjourney/Leetcode/tree/master/0999-available-captures-for-rook) |
@@ -311,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/frierenjourney/Leetcode/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/frierenjourney/Leetcode/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/frierenjourney/Leetcode/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/frierenjourney/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
