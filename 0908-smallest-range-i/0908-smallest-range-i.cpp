@@ -11,11 +11,7 @@ public:
         y=min(y,nums[i]);
     }
     y = y + k;
-    int t = x - y;
-    if(t>=-k && t<=k){
-        x=y;
-    }
-    else x=x - k;
-    return x-y;
+    x = x - k;
+    return max(x-y,0);
     }
 };
