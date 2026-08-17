@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/frierenjourney/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/frierenjourney/Leetcode/tree/master/0908-smallest-range-i) |
+| [0944-delete-columns-to-make-sorted](https://github.com/frierenjourney/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/frierenjourney/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0999-available-captures-for-rook](https://github.com/frierenjourney/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1046-last-stone-weight](https://github.com/frierenjourney/Leetcode/tree/master/1046-last-stone-weight) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/frierenjourney/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/frierenjourney/Leetcode/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/frierenjourney/Leetcode/tree/master/0830-positions-of-large-groups) |
+| [0944-delete-columns-to-make-sorted](https://github.com/frierenjourney/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frierenjourney/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frierenjourney/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/frierenjourney/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/frierenjourney/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
