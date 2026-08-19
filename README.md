@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/frierenjourney/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/frierenjourney/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/frierenjourney/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/frierenjourney/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/frierenjourney/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/frierenjourney/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/frierenjourney/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -363,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/frierenjourney/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/frierenjourney/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
