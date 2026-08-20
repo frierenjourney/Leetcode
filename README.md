@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/frierenjourney/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/frierenjourney/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/frierenjourney/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/frierenjourney/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frierenjourney/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/frierenjourney/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/frierenjourney/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/frierenjourney/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/frierenjourney/Leetcode/tree/master/0441-arranging-coins) |
+| [1539-kth-missing-positive-number](https://github.com/frierenjourney/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
