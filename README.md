@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/frierenjourney/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/frierenjourney/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/frierenjourney/Leetcode/tree/master/0441-arranging-coins) |
+| [0728-self-dividing-numbers](https://github.com/frierenjourney/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0789-escape-the-ghosts](https://github.com/frierenjourney/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0877-stone-game](https://github.com/frierenjourney/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/frierenjourney/Leetcode/tree/master/0908-smallest-range-i) |
