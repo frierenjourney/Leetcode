@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/frierenjourney/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/frierenjourney/Leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/frierenjourney/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/frierenjourney/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/frierenjourney/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/frierenjourney/Leetcode/tree/master/0695-max-area-of-island) |
 | [0789-escape-the-ghosts](https://github.com/frierenjourney/Leetcode/tree/master/0789-escape-the-ghosts) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/frierenjourney/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/frierenjourney/Leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/frierenjourney/Leetcode/tree/master/0605-can-place-flowers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frierenjourney/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
