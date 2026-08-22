@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/frierenjourney/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/frierenjourney/Leetcode/tree/master/0908-smallest-range-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/frierenjourney/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/frierenjourney/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/frierenjourney/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frierenjourney/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/frierenjourney/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/frierenjourney/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/frierenjourney/Leetcode/tree/master/0605-can-place-flowers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/frierenjourney/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frierenjourney/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
