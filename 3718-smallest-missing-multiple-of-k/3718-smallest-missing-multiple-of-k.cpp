@@ -5,12 +5,12 @@ public:
         int i=0;
         int x = k;
         while(i<nums.size()){
-            if(nums[i] == k)
-                k += x;
-
-            else if(nums[i] > k)
+            if(nums[i]-k != 0 && nums[i]>k){
                 return k;
-                i++;
+            }
+            else if(k == nums[i])
+            k+=x;
+            i++;
         }
         return k;
     }
