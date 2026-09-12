@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/frierenjourney/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/frierenjourney/Leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/frierenjourney/Leetcode/tree/master/0500-keyboard-row) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/frierenjourney/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/frierenjourney/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/frierenjourney/Leetcode/tree/master/0709-to-lower-case) |
 | [0806-number-of-lines-to-write-string](https://github.com/frierenjourney/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
