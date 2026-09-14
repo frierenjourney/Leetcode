@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/frierenjourney/Leetcode/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/frierenjourney/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0789-escape-the-ghosts](https://github.com/frierenjourney/Leetcode/tree/master/0789-escape-the-ghosts) |
+| [0836-rectangle-overlap](https://github.com/frierenjourney/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/frierenjourney/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/frierenjourney/Leetcode/tree/master/0908-smallest-range-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/frierenjourney/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -428,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/frierenjourney/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/frierenjourney/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
