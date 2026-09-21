@@ -10,7 +10,10 @@ public:
             int j=s.size()-1;
             if(hash[s[i]-'a']>1){
                 while(j>i){
-                    if(s[j]==s[i])x=max(x,j-i-1);
+                    if(s[j]==s[i]){
+                        x=max(x,j-i-1);
+                        break;
+                    }
                     j--;
                 }
             }
