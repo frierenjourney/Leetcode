@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/frierenjourney/Leetcode/tree/master/0908-smallest-range-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/frierenjourney/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/frierenjourney/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/frierenjourney/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/frierenjourney/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0999-available-captures-for-rook](https://github.com/frierenjourney/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1046-last-stone-weight](https://github.com/frierenjourney/Leetcode/tree/master/1046-last-stone-weight) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/frierenjourney/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/frierenjourney/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/frierenjourney/Leetcode/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/frierenjourney/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/frierenjourney/Leetcode/tree/master/1154-day-of-the-year) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/frierenjourney/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/frierenjourney/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/frierenjourney/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/frierenjourney/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/frierenjourney/Leetcode/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/frierenjourney/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/frierenjourney/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/frierenjourney/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/frierenjourney/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/frierenjourney/Leetcode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/frierenjourney/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/frierenjourney/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/frierenjourney/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/frierenjourney/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frierenjourney/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/frierenjourney/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -486,4 +490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/frierenjourney/Leetcode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/frierenjourney/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/frierenjourney/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/frierenjourney/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/frierenjourney/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
